@@ -7,7 +7,7 @@
       {
         "id": "7",
         "nombre":"Pizza común",
-        "precio": 1000,
+        "precio": 10,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Muzarella","Aceitunas","Orégano"],
@@ -16,7 +16,7 @@
       {
         "id": "8",
         "nombre":"Pizza especial",
-        "precio": 1200,
+        "precio": 12,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Muzarella","Aceitunas","Morrones","Tomate","Huevo"],
@@ -25,7 +25,7 @@
       {
         "id": "9",
         "nombre":"Pizza 4 quesos",
-        "precio": 1300,
+        "precio": 13,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Muzarella","Roquefort","Provolone","Parmesano"],
@@ -41,7 +41,7 @@
       {
         "id": "1",
         "nombre":"Hamburguesa con queso",
-        "precio": 1000,
+        "precio": 10,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Carne de ternera","Pan Brioche","Queso"],
@@ -50,7 +50,7 @@
       {
         "id": "2",
         "nombre":"Hamburguesa especial",
-        "precio": 1500,
+        "precio": 15,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Carne de ternera","Pan Brioche","Queso", "Tomate", "Lechuga"],
@@ -59,7 +59,7 @@
       {
         "id": "3",
         "nombre":"Hamburguesa vegana",
-        "precio": 1300,
+        "precio": 13,
         "esVegano":true,
         "esCeliaco":false,
         "ingredientes": ["Medallón a base de lentejas","Pan Brioche","Tomate"],
@@ -68,7 +68,7 @@
       {
         "id": "4",
         "nombre":"Hamburguesa celíaca",
-        "precio": 1250,
+        "precio": 12,
         "esVegano":false,
         "esCeliaco":true,
         "ingredientes": ["Carne de ternera","Pan libre de tacc","Queso"],
@@ -77,7 +77,7 @@
       {
         "id": "5",
         "nombre":"Hamburguesa americana",
-        "precio": 3500,
+        "precio": 16,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Carne de ternera","Pan Brioche","Queso","Salsa secreta BBQ", "Panceta"],
@@ -86,7 +86,7 @@
       {
         "id": "6",
         "nombre":"Medallón platero",
-        "precio": 2000,
+        "precio": 2,
         "esVegano":true,
         "esCeliaco":true,
         "ingredientes": ["Medallón a base de lentejas","Tomate","Lechuga"],
@@ -102,7 +102,7 @@
       {
         "id": "10",
         "nombre":"Tiramisú",
-        "precio": 800,
+        "precio": 8,
         "esVegano":false,
         "esCeliaco":true,
         "ingredientes": [],
@@ -111,7 +111,7 @@
       {
         "id": "11",
         "nombre":"Chocotorta",
-        "precio": 800,
+        "precio": 8,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": [],
@@ -120,7 +120,7 @@
       {
         "id": "12",
         "nombre":"Turrón de Quaker",
-        "precio": 800,
+        "precio": 8,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": [],
@@ -136,7 +136,7 @@
       {
         "id": "13",
         "nombre":"Agua",
-        "precio": 100,
+        "precio": 1,
         "esVegano":true,
         "esCeliaco":true,
         "ingredientes": [],
@@ -145,7 +145,7 @@
       {
         "id": "14",
         "nombre":"Agua Saborizada Naranja",
-        "precio": 100,
+        "precio": 1,
         "esVegano":true,
         "esCeliaco":true,
         "ingredientes": [],
@@ -154,7 +154,7 @@
       {
         "id": "15",
         "nombre":"Fanta Uva",
-        "precio": 100,
+        "precio": 1,
         "esVegano":true,
         "esCeliaco":true,
         "ingredientes": [],
@@ -170,7 +170,7 @@
       {
         "id": "16",
         "nombre":"Pizza party (4 pizzas)",
-        "precio": 100,
+        "precio": 10,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": [],
@@ -186,7 +186,7 @@
       {
         "id": "17",
         "nombre":"Papas fritas",
-        "precio": 100,
+        "precio": 1,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": [],
@@ -195,7 +195,7 @@
       {
         "id": "18",
         "nombre":"Ensalada César",
-        "precio": 100,
+        "precio": 1,
         "esVegano":false,
         "esCeliaco":false,
         "ingredientes": ["Lechuga","Salsa César","Pollo","Croutones"],
@@ -204,7 +204,7 @@
       {
         "id": "19",
         "nombre":"Ensalada simple",
-        "precio": 100,
+        "precio": 1,
         "esVegano":true,
         "esCeliaco":true,
         "ingredientes": ["Lechuga","Tomate","Zanahoria"],
